@@ -57,6 +57,4 @@ This project showcases a comprehensive Coffee Sales Dashboard created in Excel. 
 
 This Coffee Sales Dashboard project demonstrates proficiency in using advanced Excel features to analyze and visualize data effectively. The interactive dashboard allows for dynamic exploration of sales data, providing valuable insights for decision-making. This project highlights skills in data analysis, pivot tables, and dashboard creation, making it a strong example of data-driven reporting capabilities.
 
----
 
-Thank you for reviewing this project. I look forward to discussing how these skills can contribute to your team.
